@@ -19,3 +19,11 @@ print(A//B)  #output 0
 print(A-B)   #output -5
 
 print(B-A)   #output 5
+
+
+print("enter your name")
+name= input()
+print("enter your age")
+age=input()
+
+print("my name is "+name, "and my age is "+age)
